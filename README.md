@@ -6,6 +6,8 @@
 
 > An end-to-end machine learning web app that classifies customer reviews as **positive** or **negative** — TF-IDF vectorization + Multinomial Naive Bayes, served live in Streamlit.
 
+![Classification Pipeline](assets/pipeline.png)
+
 ## ⚙️ How It Works
 
 1. **Text in** — you type any customer review.
